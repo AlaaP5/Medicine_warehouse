@@ -29,4 +29,4 @@ The "Medicine Warehouse" project is designed to efficiently manage the storage a
    - Multilingual Support: Both the mobile and web applications support Arabic and English languages, including text and page direction changes (LTR, RTL).
 
 7- Reporting:
-   - Custom Reports: The system provides at least two customizable reports for warehouse owners and pharmacists, detailing sales and orders over a specified time period.
+   - Custom Reports: The system provides at customizable reports for warehouse owners and pharmacists, detailing sales and orders over a specified time period.
